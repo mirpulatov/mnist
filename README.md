@@ -23,7 +23,7 @@ We use Backpropogation Algorithm (Gradient Descent Algorithm).
 
 ### Weights:
 
-We use scipy function *truncnorm* to initialize the weight by normal distribution.
+We use scipy function *truncnorm* to initialize the weights by normal distribution.
 
 ### Requirements:
 

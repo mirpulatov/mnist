@@ -19,7 +19,7 @@ Sigmoid: `1 / 1 + e ^ (-x)`
 
 ### Training:
 
-We use backpropogation algorithm (gradient descent algorithm).
+We use Backpropogation Algorithm (Gradient Descent Algorithm).
 
 ### Weights:
 
@@ -39,6 +39,8 @@ pickle
 After 10 epochs neural network gives as a result:
 
 >Epoch 10:
+
 >Accuracy on training set:  0.9908666666666667
+
 >Accuracy on test set:  0.975`
 

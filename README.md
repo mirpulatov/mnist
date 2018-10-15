@@ -36,9 +36,9 @@ numpy==1.15.1
 ### Result:
 After 15 epochs neural network gives as a result:
 
-*Epoch 15:*
+**Epoch 15:**
 
-*Accuracy on training set: 0.9923*
+**Accuracy on training set: 0.9923**
 
-*Accuracy on test set: 0.977*
+**Accuracy on test set: 0.977**
 

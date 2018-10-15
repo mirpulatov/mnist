@@ -31,16 +31,14 @@ scipy==1.1.0
 
 numpy==1.15.1
 
-pickle
-
 `pip install -r requirements.txt`
 
 ### Result:
-After 10 epochs neural network gives as a result:
+After 15 epochs neural network gives as a result:
 
->Epoch 10:
+*Epoch 15:*
 
->Accuracy on training set:  0.9908666666666667
+*Accuracy on training set: 0.9923*
 
->Accuracy on test set:  0.975
+*Accuracy on test set: 0.977*
 
